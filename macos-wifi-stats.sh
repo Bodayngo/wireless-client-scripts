@@ -24,7 +24,9 @@ fi
 
 # Main script
 filename="wifi-check-$(date +'%Y%m%d-%H%M%S').txt"
+echo ''
 echo "Writing output to $(pwd)/$filename"
+echo ''
 echo "==================================================== script started at $(date +'%Y-%m-%d %H:%M:%S') ====================================================" | tee -a "$filename"
 
 while true; do

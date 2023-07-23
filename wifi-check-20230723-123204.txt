@@ -1,0 +1,12 @@
+==================================================== script started at 2023-07-23 12:32:04 ====================================================
+2023-07-23 12:32:04 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 172.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -56 dBm | Noise: -87 dBm | SNR: 31 dB
+2023-07-23 12:32:05 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 172.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -56 dBm | Noise: -87 dBm | SNR: 31 dB
+2023-07-23 12:32:06 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -56 dBm | Noise: -87 dBm | SNR: 31 dB
+2023-07-23 12:32:07 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -56 dBm | Noise: -87 dBm | SNR: 31 dB
+2023-07-23 12:32:08 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:09 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:10 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:11 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:13 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:14 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
+2023-07-23 12:32:15 | SSID: Bodayngo | BSSID: ce:9c:2e:e7:9a:20 | Channel: 5g52/40 | Active PHY: 802.11ax | Tx Rate: 344.0 Mbps | MCS: 8 | NSS: 2 | RSSI: -57 dBm | Noise: -87 dBm | SNR: 30 dB
